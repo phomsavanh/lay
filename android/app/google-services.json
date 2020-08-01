@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "654423405740",
+    "firebase_url": "https://lay-home.firebaseio.com",
+    "project_id": "lay-home",
+    "storage_bucket": "lay-home.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654423405740:android:755f1fffee417194069b09",
+        "android_client_info": {
+          "package_name": "com.example.lay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654423405740-suenr835n6an1mjol0cppt3vg8odmpis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzI_40NdHd5g_YuVlM9emFLEYrH--cIqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654423405740-suenr835n6an1mjol0cppt3vg8odmpis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
